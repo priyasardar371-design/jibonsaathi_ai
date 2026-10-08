@@ -1,0 +1,6 @@
+{
+  "name": "JibonSaathi AI",
+  "description": "AI-powered personal life and work assistant for India with Bengali, Hindi, and English support. Manage jobs, tasks, money reminders, documents, family, and emergency SOS.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
